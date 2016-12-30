@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					FAFE5F171E11B94A00E62FC7 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = ETYC74FZN8;
 						ProvisioningStyle = Automatic;
 					};
 					FAFE5F2B1E11B94A00E62FC7 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ETYC74FZN8;
 				INFOPLIST_FILE = TetrisApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = HerbySoft.TetrisApp;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ETYC74FZN8;
 				INFOPLIST_FILE = TetrisApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = HerbySoft.TetrisApp;
@@ -505,6 +508,7 @@
 				FAFE5F421E11B94A00E62FC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAFE5F431E11B94A00E62FC7 /* Build configuration list for PBXNativeTarget "TetrisAppTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				FAFE5F451E11B94A00E62FC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAFE5F461E11B94A00E62FC7 /* Build configuration list for PBXNativeTarget "TetrisAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				FAFE5F481E11B94A00E62FC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
